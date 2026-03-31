@@ -39,7 +39,7 @@
 
 | Module | Topic | Assignment Link |
 |--------|-------|-----------------|
-| Module 0 | ML Programming Foundations | [GitHub Classroom](https://classroom.github.com/a/HeCa9cLc) |
+| Module 0 | ML Programming Foundations | [GitHub Classroom](https://classroom.github.com/a/Jl9T6lKC) |
 | Module 1 | Autodifferentiation | *Coming Soon* |
 | Module 2 | Tensors | *Coming Soon* |
 | Module 3 | GPUs & Parallel Programming | *Coming Soon* |
